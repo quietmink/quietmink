@@ -21,9 +21,5 @@
   <h3>Any topics of interest</h3>
   <p>ML/DL • Cryptography • Systems Analysis • OSINT</p>
 
-  [![Views](https://hits.sh/github.com/quietmink/hits.svg)](https://hits.sh/github.com/silentsoft/hits/)
-
-  <hr>
-
   ![](https://leetcard.jacoblin.cool/quietmink?theme=dark&border=0&radius=20)
 </div>
