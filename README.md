@@ -13,7 +13,7 @@
   ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
   ![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
 
-  ![](https://leetcard.jacoblin.cool/quietmink?theme=dark&colors=0d1117,262c36,ffffff&font=noto)
+  ![](https://leetcard.jacoblin.cool/quietmink?theme=dark&colors=0d1117,262c36,ffffff&font=notosans)
   
   <h3>Also use</h3>
   <p>Python • C++ • MySQL • SQLite • Maven • AI Agents</p>
