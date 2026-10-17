@@ -21,7 +21,7 @@
   <h3>Any topics of interest</h3>
   <p>ML/DL • Cryptography • Systems Analysis • OSINT</p>
 
-  ![Views](https://komarev.com/ghpvc/?username=quietmink&label=Views&style=flat-square)
+  [![Views](https://hits.sh/github.com/quietmink/hits.svg)](https://hits.sh/github.com/silentsoft/hits/)
 
   <hr>
 
