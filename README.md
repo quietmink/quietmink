@@ -20,6 +20,4 @@
 
   <h3>Any topics of interest</h3>
   <p>ML/DL • Cryptography • Systems Analysis • OSINT</p>
-  
-  ![](https://komarev.com/ghpvc/?username=quietmink&color=light_grey&style=flat-square&label=Views)
 </div>
