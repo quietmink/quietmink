@@ -23,5 +23,7 @@
 
   ![Views](https://komarev.com/ghpvc/?username=quietmink&label=Views&style=flat-square&color=lightgrey)
 
-  ![LeetCode](https://leetcard.jacoblin.cool/quietmink?theme=dark)
+  <hr>
+
+  ![](https://leetcard.jacoblin.cool/quietmink?theme=transparent&border=0&radius=20)
 </div>
