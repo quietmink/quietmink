@@ -23,5 +23,5 @@
 
   ![Views](https://komarev.com/ghpvc/?username=quietmink&label=Views&style=flat-square&color=lightgrey)
 
-  [![LeetCode stats](https://leetcode-stats-six.vercel.app/quietmink?theme=dark)](https://github.com/KnlnKS/leetcode-stats)
+  ![LeetCode](https://leetcard.jacoblin.cool/quietmink?theme=dark)
 </div>
