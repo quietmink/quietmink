@@ -21,5 +21,7 @@
   <h3>Any topics of interest</h3>
   <p>ML/DL • Cryptography • Systems Analysis • OSINT</p>
 
-  ![Views](https://komarev.com/ghpvc/?username=quietmink&style=flat-square&label=Views&color=lightgrey)
+  ![Views](https://komarev.com/ghpvc/?username=quietmink&label=Views&color=lightgrey)
+
+  [![LeetCode stats](https://leetcode-stats-six.vercel.app/quietmink)](https://github.com/KnlnKS/leetcode-stats)
 </div>
