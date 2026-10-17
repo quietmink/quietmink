@@ -21,5 +21,5 @@
   <h3>Any topics of interest</h3>
   <p>ML/DL • Cryptography • Systems Analysis • OSINT</p>
 
-  ![](https://leetcard.jacoblin.cool/quietmink?theme=dark&border=0&radius=20)
+  ![](https://leetcard.jacoblin.cool/quietmink?theme=dark&colors=0d1117)
 </div>
