@@ -14,12 +14,12 @@
   ![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
 
   <hr>
+
+  ![](https://leetcard.jacoblin.cool/quietmink?theme=dark&colors=0d1117,262c36,ffffff)
   
   <h3>Also use</h3>
   <p>Python • C++ • MySQL • SQLite • Maven • AI Agents</p>
 
   <h3>Any topics of interest</h3>
   <p>ML/DL • Cryptography • Systems Analysis • OSINT</p>
-
-  ![](https://leetcard.jacoblin.cool/quietmink?theme=dark&colors=0d1117,262c36,ffffff)
 </div>
