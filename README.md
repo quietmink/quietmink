@@ -21,9 +21,9 @@
   <h3>Any topics of interest</h3>
   <p>ML/DL • Cryptography • Systems Analysis • OSINT</p>
 
-  ![Views](https://komarev.com/ghpvc/?username=quietmink&label=Views&style=flat-square&color=lightgrey)
+  ![Views](https://komarev.com/ghpvc/?username=quietmink&label=Views&style=flat-square)
 
   <hr>
 
-  ![](https://leetcard.jacoblin.cool/quietmink?theme=transparent&border=0&radius=20)
+  ![](https://leetcard.jacoblin.cool/quietmink?theme=dark&border=0&radius=20)
 </div>
